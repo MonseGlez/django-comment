@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.page-header {
+    background-color: #18529D;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4,label,input {
+    font-family: 'Open Sans', sans-serif;
+	
+}
+
+.date, p {
+    color: black;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+    background: #E2E6E5;
+    border-radius: 10px;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #000000;
+}
+body {
+  margin:0;
+  padding:0;
+  background: #28AD56;
+}
+
+
+input{
+ margin: 5px;
+}
